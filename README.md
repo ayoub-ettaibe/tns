@@ -6,6 +6,10 @@ Notebooks Python pour illustrer la génération de sinusoïdes, l'échantillonna
 - `analyse_spectrale.ipynb` : notebook principal avec explications et tracés temps/spectre côte à côte.
 - `TD2_Analyse_Spectrale777.ipynb` : variante équivalente (mêmes fonctions et tracés).
 - `td2_fft_outputs/` : dossiers de PNG générés (sweep des fréquences d'échantillonnage).
+## Contributeurs
+- Ayoub ETTAIBE
+- RIDA IKHZMANE 
+- SOUFIANE RAFI
 
 ## Prérequis
 - Python 3.9+ (testé avec 3.11)
